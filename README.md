@@ -3,12 +3,11 @@ Dashboard UI layout practice using HTML & CSS (Flexbox & Grid)
 
 # FocusFlow – UI Layout Practice
 
-FocusFlow is a personal project focused on practicing modern UI layout design using
-HTML and CSS.
+FocusFlow is a landing page layout created as a practice project to improve my
+HTML and CSS skills.
 
-The main goal of this project is to strengthen my understanding of layout systems,
-spacing, visual hierarchy, and building scalable interfaces similar to real-world
-web applications.
+The main objective of this project is to focus on layout, spacing, and visual hierarchy
+and responsive design, not on building a fully functional product.
 
 This project is not focused on functionality yet, but on creating a solid and clean
 UI foundation.
@@ -17,32 +16,36 @@ UI foundation.
 
 ##  Project Goals
 
-- Practice building an app-like layout (sidebar + main content)
-- Improve CSS structure and organization
-- Understand when to use Flexbox vs Grid
-- Work with spacing, alignment, and visual hierarchy
-- Create reusable UI components
+- Practice building a product landing page
+- Improve layout structure using Flexbox and Grid
+- Work with spacing, alignment and content width
+- Apply basic design principles (hierarchy, contrast, readability)
+- Build a responsive layout starting from mobile-first
 
 ---
 
 ##  Tech Stack
 
-- HTML5 (semantic structure)
+- HTML5 (semantic markup)
 - CSS3
   - Flexbox
   - CSS Grid
-  - CSS Custom Properties (variables)
+  - CSS Variables
+  - Mobile-first approach
 
 ---
 
 ##  What I Practiced
 
-- Layout composition (dashboard-style UI)
-- Sidebar navigation structure
-- Responsive grid systems
-- Component-based thinking (cards, sections, timer)
-- Accessibility-friendly semantic HTML
-- Clean and maintainable CSS structure
+- Header and navigation layout
+- Hero section structure
+- Feature cards layout
+- Step/workflow section
+- Testimonials section
+- Pricing section
+- Footer layout
+- Responsive design with media queries
+- Container width and content alignment
 
 ---
 
@@ -50,4 +53,5 @@ UI foundation.
 /
 ├── index.html
 ├── styles.css
-└── assets/
+└── assets/<img width="1553" height="908" alt="image" src="https://github.com/user-attachments/assets/f875ba55-3025-424d-8d6d-75193dcbfeb5" />
+
